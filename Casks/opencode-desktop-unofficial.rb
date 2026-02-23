@@ -1,6 +1,6 @@
 cask "opencode-desktop-unofficial" do
-  version "0.2.0"
-  sha256 "99ffeb6a9c25d5eeacfa3dd12fdc2792a5bace3d05eebba32df0b8d8b4a66d14"
+  version "0.3.0"
+  sha256 "cf0bf33b9ef47bd41d1680b11d9d8a8cdef7437af63981582d9b6a0914b2e133"
 
   url "https://github.com/nanasi-apps/opencode-desktop/releases/download/v#{version}/OpenCode.Desktop-arm64.dmg"
   name "OpenCode Desktop"
